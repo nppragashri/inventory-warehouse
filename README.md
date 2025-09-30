@@ -57,7 +57,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License.
-=======
-# inventory-warehouse
-The Warehouse API is a backend-heavy application designed to track products in a warehouse. It provides a robust set of features for managing product inventory, including full CRUD operations and inventory management logic.
->>>>>>> 9cfbf8cbae9ce524c0fc1b80cfad78c9472a308b
